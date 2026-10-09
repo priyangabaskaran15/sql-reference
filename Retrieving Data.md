@@ -648,7 +648,3 @@ Read it as:
 | 24 | `DISTINCT`           | Remove duplicates              |
 | 25 | `AS`                 | Create aliases                 |
 -----------------------------------------------------------------------------------------------------------------
-14. Find the 3 highest-paid IT employees.
-15. Find employees from Chennai earning between 50,000 and 90,000, sorted by salary.
-
-Try these first, then compare your answers with the SQL file.
