@@ -1,12 +1,13 @@
 Joins are used to combine data from two or more tables based on a related column.
 ## Topics
-33.`Relationships` — Understand how tables are connected
+
+33. **Relationships** — Understand how tables are connected
 34. `INNER JOIN` — Return matching rows from both tables
 35. `LEFT JOIN` — Return all rows from the left table and matching rows from the right table
 36. `RIGHT JOIN` — Return all rows from the right table and matching rows from the left table
 37. `FULL OUTER JOIN` — Return matching and non-matching rows from both tables
-38. `Self Join` — Join a table with itself
-39.` Multiple-table Joins` — Join more than two tables
+38. **Self Join** — Join a table with itself
+39. **Multiple-table Joins** — Join more than two tables
 -------------------------------------------------------------------------------------------------------------
 
 ## Tables Used
